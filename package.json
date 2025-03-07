@@ -1,5 +1,15 @@
-"dependencies": {
-  "iron-session": "^6.1.0",
-  "next": "^13.4.0",
-  "react": "^18.2.0"
+{
+  "name": "redirector",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "iron-session": "^6.0.0",
+    "next": "^13.4.0",
+    "react": "^18.2.0"
+  }
 }
